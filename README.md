@@ -17,6 +17,11 @@
 
 💻  Actively enhancing coding prowess with **Python, Data Analytics, Statistics  and more. 🚀✨**
  </div>
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/aditya_1950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_1950" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya" height="30" width="40" /></a>
+</p>
 
  
 <h4 align="center">
@@ -46,4 +51,19 @@
 </div>
 
 <br/>
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adityak1950&show_icons=true&locale=en" alt="adityak1950" />
+  <br/>
+    
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityak1950&show_icons=true&locale=en&layout=compact" alt="adityak1950" alt="top langs" />
+</div>
+
+<br/><br/>
+
 <hr/>
