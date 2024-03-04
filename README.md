@@ -11,9 +11,9 @@
  
  🔭 Aspiring **Computer Engineer** passionate about coding and emerging technologies.
  
- 🌱 I’m currently learning **Python, Django, MongoDB**
+ 🌱 I’m currently learning **R, Django, MongoDB**
 
-💬 Ask me anything about **Coding, Machine Learning, or anything Tech-related! [here](https://forms.gle/cEcJ9uEiz1XVbsuw8)**
+💬 Ask me anything about **Coding, , or anything Tech-related! [here](https://forms.gle/cEcJ9uEiz1XVbsuw8)**
 
 💻  Actively enhancing coding prowess with **Python, Data Analytics, Statistics  and more. 🚀✨**
  </div>
@@ -57,13 +57,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adityak1950&show_icons=true&locale=en" alt="adityak1950" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=adityak1950&theme=blue-green" alt="adityak1950"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adityak1950&show_icons=truee&theme=blue-green&locale=en" alt="adityak1950" />
   <br/>
     
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityak1950&show_icons=true&locale=en&layout=compact" alt="adityak1950" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityak1950&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="adityak1950" />
 </div>
 
+<br/><br/>
+<!--
+<h2 align="center">🏆 Trophy 🏆</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityak1950" alt="adityak1950" /></a> </p>
+-->
 <br/><br/>
 
 <hr/>
