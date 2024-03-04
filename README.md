@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **R, Django, MongoDB**
 
-💬 Ask me anything about **Coding, , or anything Tech-related! [here](https://forms.gle/cEcJ9uEiz1XVbsuw8)**
+💬 Ask me anything about **Coding, Data Science or anything Tech-related! [here](https://forms.gle/cEcJ9uEiz1XVbsuw8)**
 
 💻  Actively enhancing coding prowess with **Python, Data Analytics, Statistics  and more. 🚀✨**
  </div>
