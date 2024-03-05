@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya" height="30" width="40" /></a>
 </p>
 
- 
+
 <h4 align="center">
 <div align="center"> 
   <a href="adityakakadeoffice@gmail.com">
