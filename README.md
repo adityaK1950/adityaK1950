@@ -7,7 +7,6 @@
 
 <br/>
 
-
 <div align="center">
  
  🔭 Aspiring **Computer Engineer** passionate about coding and emerging technologies.
