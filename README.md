@@ -22,7 +22,9 @@
 <p align="center">
 <a href="https://twitter.com/aditya_1950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_1950" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/adityaK1950" target="blank"><img align="center" src="https://github.com/adityaK1950/SnakePlay-Snake-Game-in-Java/assets/156563981/b48f6dac-a698-4ab9-8ab8-fa2a2451b9b2" alt="aditya_1950" height="30" width="40" /></a>
 </p>
+
 
 
 <h4 align="center">
